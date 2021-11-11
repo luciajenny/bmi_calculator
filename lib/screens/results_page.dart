@@ -1,4 +1,4 @@
-import 'file:///C:/Users/user/AndroidStudioProjects/bmi-calculator-flutter/lib/components/reusable_card.dart';
+import 'package:bmi_calculator/components/reusable_card.dart';
 import 'package:flutter/material.dart';
 import '../constant.dart';
 import 'package:bmi_calculator/components/buttom_button.dart';
